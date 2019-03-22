@@ -1,5 +1,3 @@
 PHP 7.3.2
 Mysql phpmyadmin
 Apache/2.4.3
-prueba
-otra prueba
